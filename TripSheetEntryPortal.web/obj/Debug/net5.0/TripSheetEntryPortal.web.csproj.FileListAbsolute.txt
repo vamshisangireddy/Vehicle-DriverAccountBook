@@ -1,0 +1,9 @@
+C:\Users\emmad\source\repos\Vehicle-DriverAccountBook\TripSheetEntryPortal.web\obj\Debug\net5.0\TripSheetEntryPortal.web.csproj.AssemblyReference.cache
+C:\Users\emmad\source\repos\Vehicle-DriverAccountBook\TripSheetEntryPortal.web\obj\Debug\net5.0\TripSheetEntryPortal.web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmad\source\repos\Vehicle-DriverAccountBook\TripSheetEntryPortal.web\obj\Debug\net5.0\TripSheetEntryPortal.web.AssemblyInfoInputs.cache
+C:\Users\emmad\source\repos\Vehicle-DriverAccountBook\TripSheetEntryPortal.web\obj\Debug\net5.0\TripSheetEntryPortal.web.AssemblyInfo.cs
+C:\Users\emmad\source\repos\Vehicle-DriverAccountBook\TripSheetEntryPortal.web\obj\Debug\net5.0\TripSheetEntryPortal.web.csproj.CoreCompileInputs.cache
+C:\Users\emmad\source\repos\Vehicle-DriverAccountBook\TripSheetEntryPortal.web\obj\Debug\net5.0\TripSheetEntryPortal.web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\emmad\source\repos\Vehicle-DriverAccountBook\TripSheetEntryPortal.web\obj\Debug\net5.0\TripSheetEntryPortal.web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emmad\source\repos\Vehicle-DriverAccountBook\TripSheetEntryPortal.web\obj\Debug\net5.0\TripSheetEntryPortal.web.RazorAssemblyInfo.cache
+C:\Users\emmad\source\repos\Vehicle-DriverAccountBook\TripSheetEntryPortal.web\obj\Debug\net5.0\TripSheetEntryPortal.web.RazorAssemblyInfo.cs
